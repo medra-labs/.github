@@ -13,4 +13,4 @@ Technology should make people's lives better. Medra gathers ideas about how that
 
 <p align="center"><strong>Coming soon...</strong></p>
 
-<img src="img/footer.gif" alt="The Medra logo opens into a person head and a robot head; the robot becomes a rocket, the person climbs into its window and the rocket flies off to the right, returns from the left, the person hops out, the rocket turns back into the robot and both fold into the logo" width="100%">
+<img src="img/footer.gif" alt="The Medra logo opens into a person head and a robot head; the robot morphs into a rocket, the person climbs into its window and the rocket flies off to the right, returns from the left, the person hops out, the rocket morphs back into the robot and both fold into the logo" width="100%">
