@@ -1,4 +1,4 @@
-<img src="img/banner.jpg" alt="The Medra logo opens into a person head and a robot head; the robot becomes a rocket, the person climbs into its window and the rocket flies off to the right, returns from the left, the person hops out, the rocket turns back into the robot and both fold into the logo" width="100%">
+<img src="img/banner.jpg" alt="How should we relate to technology?" width="100%">
 
 Medra is an exploration of how people and technology should interact. AI is already part of the day and software can now act without being asked, so the question is what a good relationship with it looks like.
 
@@ -9,7 +9,7 @@ Technology should make people's lives better. Medra gathers ideas about how that
 ## Projects
 
 - **Medra for Android**, a launcher where agents with memory work for you, make the apps you ask for and learn how you like things done.
-- **Medra OS**, the same ideas as an operating system for the PC, with the agent inside the system.
+- **Medra OS**, for PC. The same ideas as an operating system, with the agent inside the system.
 
 <p align="center"><strong>Coming soon...</strong></p>
 
