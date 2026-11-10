@@ -1,4 +1,4 @@
-<img src="img/banner.jpg" alt="The Medra logo, a white crescent holding a small light ellipse, above the question: How should we relate to technology?" width="100%">
+<img src="img/banner.jpg" alt="How should we relate to technology?" width="100%">
 
 We are Medra, an exploration of how people and technology should interact. AI is already part of the day and software can now act without being asked, so we are looking for what a good relationship with it looks like.
 
