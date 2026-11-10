@@ -14,3 +14,5 @@ Technology should make people's lives better. Medra gathers ideas about how that
 Each project is a working attempt at one of the ideas above, and its README says what runs today and what is still a sketch.
 
 <p align="center"><strong>Coming soon...</strong></p>
+
+<img src="img/footer.gif" alt="A small white shape hops across a violet gradient, turning from the Medra logo into a face, a robot and a rocket that flies away, then the logo returns" width="100%">
