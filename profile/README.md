@@ -13,9 +13,12 @@ We collect ideas about how humans and technology should interact, and we look fo
 
 ## Projects
 
-Each project is a working attempt at one of these ideas, and its README says what runs today and what is still a sketch. They will be published here soon.
+- **Medra**, an Android launcher where agents with memory work for you, make the apps you ask for and learn how you like things done.
+- **Medra OS**, the same ideas as an operating system, with the agent inside the system.
+
+Each project is a working attempt at one of the ideas above, and its README says what runs today and what is still a sketch.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/soon-dark.png">
-  <img src="img/soon-light.png" alt="Three cards, each with a piece of the Medra logo and the words Coming soon." width="100%">
+  <img src="img/soon-light.png" alt="A small robot winking, next to the words Coming soon." width="100%">
 </picture>
