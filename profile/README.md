@@ -1,13 +1,10 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/hero-dark.png">
-  <img src="img/hero-light.png" alt="The Medra logo, a violet crescent holding a small light ellipse, above the question: How should we relate to technology?" width="100%">
-</picture>
+<img src="img/banner.jpg" alt="The Medra logo, a white crescent holding a small light ellipse, above the question: How should we relate to technology?" width="100%">
 
-Medra explores the interaction between people and technology. AI is already part of the day, and software can now act without being asked, so we build projects that test what a good relationship with it looks like. Each project is a different answer to the same question.
+Medra is an exploration of how people and technology should interact. AI is already part of the day, and software can now act without being asked, so the question is what a good relationship with it looks like.
 
 ## The idea
 
-For decades a program waited for a tap. An agent does not, so the question changes from what the screen shows to what the machine does when nobody is looking. Four ideas guide every project here.
+Medra is a search for ideas about how humans and technology should interact, and for ways to try them out. These are the ones it has arrived at so far.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/cards-dark.png">
@@ -16,7 +13,7 @@ For decades a program waited for a tap. An agent does not, so the question chang
 
 ## How it is approached
 
-We build to find out. Each project is a working attempt, and its README says what runs today and what is still a sketch.
+Each idea is tested in a working attempt. Every project's README says what runs today and what is still a sketch.
 
 ## The look
 
