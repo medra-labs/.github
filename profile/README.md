@@ -13,4 +13,9 @@ We collect ideas about how humans and technology should interact, and we look fo
 
 ## Projects
 
-Soon we will publish projects here. Each one is a working attempt at one of these ideas, and its README says what runs today and what is still a sketch.
+Each project is a working attempt at one of these ideas, and its README says what runs today and what is still a sketch. They will be published here soon.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="img/soon-dark.png">
+  <img src="img/soon-light.png" alt="Three cards, each with a piece of the Medra logo and the words Coming soon." width="100%">
+</picture>
