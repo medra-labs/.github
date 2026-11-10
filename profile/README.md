@@ -20,5 +20,5 @@ Each project is a working attempt at one of the ideas above, and its README says
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/soon-dark.png">
-  <img src="img/soon-light.png" alt="A small robot winking, next to the words Coming soon." width="100%">
+  <img src="img/soon-light.png" alt="Coming soon" width="220">
 </picture>
