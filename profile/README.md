@@ -1,10 +1,10 @@
 <img src="img/banner.jpg" alt="How should we relate to technology?" width="100%">
 
-We are Medra, an exploration of how people and technology should interact. AI is already part of the day and software can now act without being asked, so we are looking for what a good relationship with it looks like.
+Medra is an exploration of how people and technology should interact. AI is already part of the day and software can now act without being asked, so the question is what a good relationship with it looks like.
 
 ## The idea
 
-We collect ideas about how humans and technology should interact, and we look for ways to try them out. These are the ones we have so far.
+Medra gathers ideas about how humans and technology should interact, and looks for ways to try them out. These are the ones so far.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/cards-dark.png">
