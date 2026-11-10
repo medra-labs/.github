@@ -13,8 +13,8 @@ We collect ideas about how humans and technology should interact, and we look fo
 
 ## Projects
 
-- **Medra**, an Android launcher where agents with memory work for you, make the apps you ask for and learn how you like things done.
-- **Medra OS**, the same ideas as an operating system, with the agent inside the system.
+- **Medra for Android**, a launcher where agents with memory work for you, make the apps you ask for and learn how you like things done.
+- **Medra OS**, the same ideas as an operating system for the PC, with the agent inside the system. The name will change.
 
 Each project is a working attempt at one of the ideas above, and its README says what runs today and what is still a sketch.
 
