@@ -18,7 +18,4 @@ Medra gathers ideas about how humans and technology should interact, and looks f
 
 Each project is a working attempt at one of the ideas above, and its README says what runs today and what is still a sketch.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/soon-dark.png">
-  <img src="img/soon-light.png" alt="Coming soon" width="100%">
-</picture>
+<p align="center"><strong>Coming soon...</strong></p>
