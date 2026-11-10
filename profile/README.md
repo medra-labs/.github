@@ -8,8 +8,15 @@ Technology should make people's lives better. Medra gathers ideas about how that
 
 ## Projects
 
-- **Medra for Android**, a launcher where agents with memory work for you, make the apps you ask for and learn how you like things done.
-- **Medra OS**, for PC. The same ideas as an operating system, with the agent inside the system.
+### Medra for Android
+
+A launcher that puts agents on your home screen. They remember what you tell them in notes you can read and correct, make the apps and widgets you ask for in your own words, and keep working in the background through routines. When a notification arrives, it goes to the agent it concerns.
+
+Medra learns how long and how visual you like answers to be and how often you want to be interrupted, never what you want to hear. It can also notice the places you go and ask once what to call them. It runs with a server you host yourself, so your data stays with you, and every piece can be turned off.
+
+### Medra OS
+
+For PC. The same ideas as an operating system: Linux with the agent inside the system. An agent can do only what you have allowed, anything it cannot undo asks you first, and every action goes into a log you can read. It boots in a virtual machine today.
 
 <p align="center"><strong>Coming soon...</strong></p>
 
