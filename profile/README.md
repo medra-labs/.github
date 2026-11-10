@@ -8,7 +8,7 @@ Technology should make people's lives better. Medra gathers ideas about how that
 
 ## Projects
 
-- **Medra for Android**, a launcher that brings agents with memory to everyone. It makes custom software for each person, and its user modeling learns how they live and like things done, so it can help before being asked.
+- **Medra for Android**, a launcher that brings agents to everyone. It makes custom software for each person, and its user modeling learns how they live and like things done, so it can help before being asked.
 - **Medra OS**, for PC. The same ideas as an operating system, with the agent inside the system.
 
 <p align="center"><strong>Coming soon...</strong></p>
