@@ -1,18 +1,25 @@
-<img src="img/banner.jpg" alt="How should we relate to technology?" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="img/hero-dark.png">
+  <img src="img/hero-light.png" alt="The Medra logo, a violet crescent holding a small light ellipse, above the question: How should we relate to technology?" width="100%">
+</picture>
 
-# Medra
+Medra explores the interaction between people and technology. AI is already part of the day, and software can now act without being asked, so we build projects that test what a good relationship with it looks like. Each project is a different answer to the same question.
 
-Medra explores the interaction between people and technology.
+## The idea
 
-AI is already part of the day, and software can now act without being asked. So what should the relationship between a person and their technology look like, and what would it be like to build the way we use software around that?
+For decades a program waited for a tap. An agent does not, so the question changes from what the screen shows to what the machine does when nobody is looking. Four ideas guide every project here.
 
-The answer takes several shapes. Each one lives here as a project, and they all follow one belief: technology should make people's lives better.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="img/cards-dark.png">
+  <img src="img/cards-light.png" alt="Four cards. 01 Attention belongs to the person. 02 Useful, not flattering. 03 You decide how much happens alone. 04 Nothing is hidden about you." width="100%">
+</picture>
 
-<table>
-<tr>
-<td width="25%"><img src="img/logo-opens.gif" alt="Two pale circles that merge into the Medra logo, a violet crescent holding a small ellipse" width="100%"></td>
-<td width="25%"><img src="img/person-and-robot.gif" alt="A person with a small robot beside them, waving, until both fold back into two circles" width="100%"></td>
-<td width="25%"><img src="img/head-to-logo.gif" alt="A face with two eyes that empties into a plain circle and becomes the Medra logo" width="100%"></td>
-<td width="25%"><img src="img/phone-builds.gif" alt="A phone screen that builds itself piece by piece: a counter, a weather card and a day card" width="100%"></td>
-</tr>
-</table>
+## How it is approached
+
+We build to find out. Each project is a working attempt, and its README says what runs today and what is still a sketch.
+
+## The look
+
+The logo is a crescent that holds a small light. Here it opens from two plain circles.
+
+<img src="img/logo-opens.gif" alt="Two pale circles that merge into the Medra logo, a violet crescent holding a small ellipse" width="320">
