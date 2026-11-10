@@ -4,12 +4,7 @@ Medra is an exploration of how people and technology should interact. AI is alre
 
 ## The idea
 
-Medra gathers ideas about how humans and technology should interact, and looks for ways to try them out. These are the ones so far.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/cards-dark.png">
-  <img src="img/cards-light.png" alt="Four cards. 01 Attention belongs to the person. 02 Useful, not flattering. 03 You decide how much happens alone. 04 Nothing is hidden about you." width="100%">
-</picture>
+Technology should make people's lives better. Medra gathers ideas about how that can work and looks for ways to try them out. Each person decides what the technology knows about them and how much it does on its own, so everything can be adjusted.
 
 ## Projects
 
