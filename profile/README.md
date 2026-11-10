@@ -1,4 +1,4 @@
-<img src="img/banner.jpg" alt="How should we relate to technology?" width="100%">
+<img src="img/banner.jpg" alt="The Medra logo opens into a person head and a robot head that blink and look at each other; the robot becomes a rocket that flies off to the right, comes back from the left, turns into the robot again and both fold back into the logo" width="100%">
 
 Medra is an exploration of how people and technology should interact. AI is already part of the day and software can now act without being asked, so the question is what a good relationship with it looks like.
 
@@ -15,4 +15,4 @@ Each project is a working attempt at one of the ideas above, and its README says
 
 <p align="center"><strong>Coming soon...</strong></p>
 
-<img src="img/footer.gif" alt="A small white shape hops across a violet gradient, turning from the Medra logo into a face, a robot and a rocket that flies away, then the logo returns" width="100%">
+<img src="img/footer.gif" alt="The Medra logo opens into a person head and a robot head that blink and look at each other; the robot becomes a rocket that flies off to the right, comes back from the left, turns into the robot again and both fold back into the logo" width="100%">
